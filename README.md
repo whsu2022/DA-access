@@ -1,2 +1,2 @@
 # DA-access
-DA on off script
+DA on off script (Windows only)
